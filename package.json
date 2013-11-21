@@ -2,7 +2,7 @@
   "name": "studify",
   "description": "Easily put your node server behind `stud` SSL terminator",
   "author": "Maciej Małecki <me@mmalecki.com>",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mmalecki/studify.git"
